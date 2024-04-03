@@ -2,7 +2,7 @@
 
 [[package]]
 name = "packagea"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 optional = false
 python-versions = "^3.8"
@@ -12,13 +12,13 @@ develop = false
 [package.source]
 type = "git"
 url = "https://github.com/andreroggeri/poetry-repo-package-bug.git"
-reference = "packagea-0.1.0"
-resolved_reference = "1afa353b2f9b64f9743265683cf4deee8e2bb1b8"
+reference = "packagea-0.2.0"
+resolved_reference = "8a3901d7362ae123e1d1fc6da9d232d6a6f86160"
 subdirectory = "packagea"
 
 [[package]]
 name = "packageb"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 optional = false
 python-versions = "^3.8"
@@ -28,11 +28,11 @@ develop = false
 [package.source]
 type = "git"
 url = "https://github.com/andreroggeri/poetry-repo-package-bug.git"
-reference = "packageb-0.1.0"
-resolved_reference = "1afa353b2f9b64f9743265683cf4deee8e2bb1b8"
+reference = "packageb-0.2.0"
+resolved_reference = "8a3901d7362ae123e1d1fc6da9d232d6a6f86160"
 subdirectory = "packageb"
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "5653748fe51097315f3268976975d4b11757a145e15c96885da28d421cdc4c6c"
+content-hash = "7b38635e4708ace6037b40efa1dac1ec2162e633da5310848c89fbf466b05731"
