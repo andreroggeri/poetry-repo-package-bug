@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "packageb"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["André Roggeri Campos <a.roggeri.c@gmail.com>"]
 readme = "README.md"
