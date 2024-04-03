@@ -7,6 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+packagea = { git = "https://github.com/andreroggeri/poetry-repo-package-bug.git", rev = "packagea-0.1.0", subdirectory = "packagea" }
+packageb = { git = "https://github.com/andreroggeri/poetry-repo-package-bug.git", rev = "packageb-0.1.0", subdirectory = "packageb" }
 
 
 [build-system]
